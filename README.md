@@ -18,6 +18,7 @@ So first update the Homebrew package manager index. Then you can install Node.js
 
 
 ## Before start the development server you must: 
+install the evironment after you clone this repository
 
 `npm install`
 
